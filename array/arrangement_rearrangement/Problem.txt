@@ -1,0 +1,4 @@
+1. Rearrange an array such that arr[i] = i
+2. Write a program to reverse an array or string
+3. Rearrange array such that arr[i] >= arr[j] if i is even and arr[i]<=arr[j] if i is odd and j < i
+
